@@ -1,0 +1,22 @@
+{
+  "name": "color-logs",
+  "version": "1.0.0",
+  "description": "This is testing npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taqui-786/color-logs.git"
+  },
+  "author": "Taqui imam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taqui-786/color-logs/issues"
+  },
+  "homepage": "https://github.com/taqui-786/color-logs#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
